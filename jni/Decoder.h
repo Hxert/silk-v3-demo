@@ -1,0 +1,1 @@
+int decode(int argc, char* argv[], int offset);
